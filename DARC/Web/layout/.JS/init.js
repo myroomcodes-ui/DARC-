@@ -9,15 +9,15 @@ import { text } from '/bin.js';
 
 class AppInitializer {
         static CSS_FILES = [
-                '/DARC/Web/layout/default/Darc.all.css',
-                '/DARC/E.ngine/Externals/mod/font awesome/css/all.min.css',
-                '/DARC/E.ngine/Externals/mod/font awesome/css/fontawesome.min.css',
-                '/DARC/Web/layout/default/homeActivity.css'
+                'DARC/Web/layout/default/Darc.all.css',
+                'DARC/E.ngine/Externals/mod/font awesome/css/all.min.css',
+                'DARC/E.ngine/Externals/mod/font awesome/css/fontawesome.min.css',
+                'DARC/Web/layout/default/homeActivity.css'
         ];
         
         static JS_FILES = [
-                '/DARC/E.ngine/Externals/mod/gsap@3.13.0/gsap.min.js',
-                '/DARC/E.ngine/Externals/mod/gsap@3.13.0/MotionPathPlugin.js'
+                'DARC/E.ngine/Externals/mod/gsap@3.13.0/gsap.min.js',
+                'DARC/E.ngine/Externals/mod/gsap@3.13.0/MotionPathPlugin.js'
                 
         ];
         
